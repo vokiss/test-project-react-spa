@@ -1,0 +1,1 @@
+export const basenameUrl = "/test-project-react-spa"
