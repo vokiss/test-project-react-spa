@@ -1,3 +1,6 @@
+# Ссылка на рабочий билд
+https://vokiss.github.io/test-project-react-spa/
+
 # Техническое задание
 Необходимо реализовать SPA (single page application) на React.
 
