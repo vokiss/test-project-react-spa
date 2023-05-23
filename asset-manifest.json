@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-project-react-spa/static/css/main.8b5d7a5c.css",
+    "main.js": "/test-project-react-spa/static/js/main.79cbfb3b.js",
+    "static/media/avatar.jpg": "/test-project-react-spa/static/media/avatar.1f3fb8bc9173346e4de8.jpg",
+    "static/media/avatar_about.jpg": "/test-project-react-spa/static/media/avatar_about.bc7244d7134c9e6e07cb.jpg",
+    "index.html": "/test-project-react-spa/index.html",
+    "main.8b5d7a5c.css.map": "/test-project-react-spa/static/css/main.8b5d7a5c.css.map",
+    "main.79cbfb3b.js.map": "/test-project-react-spa/static/js/main.79cbfb3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b5d7a5c.css",
+    "static/js/main.79cbfb3b.js"
+  ]
+}
