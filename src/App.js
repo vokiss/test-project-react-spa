@@ -3,11 +3,12 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import MainPage from './pages/MainPage';
 import AboutPage from './pages/AboutPage';
 import UserPage from './pages/UserPage';
+import { SkillsBagdes, basenameUrl } from './const';
 
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={basenameUrl}>
       <Routes>
         <Route 
           path={'/'}
@@ -15,7 +16,7 @@ function App() {
           />
         <Route 
           path={'/about'}
-          element={<AboutPage/>} 
+          element={<AboutPage skillBadges={SkillsBagdes}/>} 
           />
         <Route 
           path={'/user/:id'}
